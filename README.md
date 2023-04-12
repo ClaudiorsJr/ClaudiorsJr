@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Claudio Jr
-- 👀 I’m interested in Data Analysis, Data Science, Innovation, and Startups.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analysis and Data Science.
+- 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on Python programming to data analysis.
 - 📫 How to reach me: e-mail: claudiorsjunior@outlook.com | Phone/whatsapp: (+55) 98982416336
 
