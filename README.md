@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClaudiorsJr
+- 👋 Hi, I’m Claudio Jr
 - 👀 I’m interested in Data Analysis, Data Science, Innovation, and Startups.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python programming to data analysis.
