@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **claudiorsjunior@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/claudio-roberto-silva-j%C3%BAnior-a31212128/](https://www.linkedin.com/in/claudio-roberto-silva-j%C3%BAnior-a31212128/)
+- 📄 Know about my experiences [www.linkedin.com/in/claudiorobertosilvajunior](www.linkedin.com/in/claudiorobertosilvajunior
+
+)
 
 - ⚡ Fun fact **I think I am funny and a good football player**
 
