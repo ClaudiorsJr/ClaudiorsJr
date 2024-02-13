@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **claudiorsjunior@outlook.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/claudiorobertosilvajunior](www.linkedin.com/in/claudiorobertosilvajunior
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/claudiorobertosilvajunior)
 
 )
 
