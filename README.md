@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Claudio Jr.</h1>
 <h3 align="center">A passionate Data Analyst and Data Scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [Loan Default Project](https://www.kaggle.com/datasets/yasserh/loan-default-dataset/data)
-
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently working with **Python for data analysis, SQL, AI, and automations with N8N**
 
 - 👯 I’m looking to collaborate on **Data Science and Data Analysis projects**
 
@@ -14,8 +12,6 @@
 - 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/claudiorobertosilvajunior)
 
 )
-
-- ⚡ Fun fact **I think I am funny and a good football player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
