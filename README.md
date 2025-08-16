@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudio Jr.</h1>
-<h3 align="center">A passionate Data Analyst and Data Scientist from Brazil</h3>
+<h3 align="center">A passionate Data Analyst from Brazil</h3>
 
 - 🌱 I’m currently working with **Python for data analysis, SQL, AI, and automations with N8N**
 
@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/claudiorobertosilvajunior)
 
-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
